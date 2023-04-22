@@ -1,16 +1,16 @@
-const traceyRoute = (req,res) => {
+const traceyRoute = (req, res) => {
     res.send("Tracey K Hove");
   };
 
-const jordanRoute = (req,res) => {
+const jordanRoute = (req, res) => {
     res.send("Jordan Hove");
   };
 
-const jaredRoute = (req,res) => {
+const jaredRoute = (req, res) => {
 res.send("Jared Hove");
 };
 
-const taylorRoute = (req,res) => {
+const taylorRoute = (req, res) => {
     res.send("Taylor Hove");
     };
 
