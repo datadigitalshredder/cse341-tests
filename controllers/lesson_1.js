@@ -1,5 +1,5 @@
 const traceyRoute = (req, res) => {
-    res.send("Tracey K Hove");
+    res.send("Tracey Hove");
   };
 
 const jordanRoute = (req, res) => {
